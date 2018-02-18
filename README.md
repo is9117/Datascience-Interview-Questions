@@ -1,6 +1,6 @@
 # Datascience-Interview-Questions
 - Made by [Seongyun Byeon](https://github.com/zzsza)
-- Edited by [Kwangje](https://github.com/Kwangje), [Issac](https://github.com/is9117)
+- Edited by [Kwangje](https://github.com/Kwangje), [Isaac](https://github.com/is9117)
 - Last modified date : 18.2.18
 
 ## Intro
